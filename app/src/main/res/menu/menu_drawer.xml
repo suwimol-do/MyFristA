@@ -3,11 +3,11 @@
 <group>
     <item
         android:id="@+id/item1"
-        android:title="AboutMe"/>
+        android:title="@string/aboutme"/>
 
     <item
         android:id="@+id/item2"
-        android:title="Contact"/>
+        android:title="@string/contact"/>
 
 
 </group>
