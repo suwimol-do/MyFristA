@@ -16,7 +16,7 @@
         android:layout_height="match_parent"
         android:layout_gravity=""
         android:layout_fitsSystemWindows="true"
-        app:heaerLayout=""
+        app:heaerLayout="layout/drawer_header"
         app:menu="">
 
     </android.support.design.widget.CoordinatorLayout>
