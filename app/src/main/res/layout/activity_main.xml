@@ -10,10 +10,15 @@
         layout=""
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
+
     <android.support.design.widget.CoordinatorLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_gravity=""
-        android:layout_fits=""
+        android:layout_fitsSystemWindows="true"
+        app:heaerLayout=""
+        app:menu="">
+
+    </android.support.design.widget.CoordinatorLayout>
 
 </android.support.constraint.ConstraintLayout>
